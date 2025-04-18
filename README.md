@@ -4,7 +4,7 @@ Here are some quick things about me:
 
 - 🔭 AI/Ml Learner.
 - ⚡ Exploring Backend.
-- Hardworker
+- Exploring opportunities in AI
 - Leadership
 <br>
 <p align="center" >
