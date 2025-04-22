@@ -5,7 +5,7 @@ Here are some quick things about me:
 - 🔭 AI/Ml Learner.
 - ⚡ Exploring Backend.
 - Exploring opportunities in AI
-- Leadership
+- - 💬 Ask me about Agents, Agentic Solution , ML, LLM, Fast-API
 <br>
 <p align="center" >
     <img src="https://komarev.com/ghpvc/?username=250519&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
