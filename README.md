@@ -53,13 +53,6 @@ Data Science Enthusiast
   </a> 
 </p>
 
-<p align="center" >
-    <img src="https://komarev.com/ghpvc/?username=250519&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-    <!--
-    <a href="https://twitter.com/intent/follow?&screen_name=harshh2002"><img alt="Twitter" src="https://img.shields.io/twitter/follow/vedant2040?&logo=twitter" /></a>
-    -->
-<a href="harshshivhare280@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail" /></a>
-</p>
 <p align="center">
 <img alt="pf-details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=250519&theme=dracula">
 
